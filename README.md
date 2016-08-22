@@ -1,2 +1,2 @@
 # appshowcase
-Android Career Summit event
+This repo contains the apk for Android Career Summit event
